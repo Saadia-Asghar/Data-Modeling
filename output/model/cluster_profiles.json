@@ -1,0 +1,42 @@
+{
+  "0": {
+    "name": "Cooking & Hiking",
+    "n": 46,
+    "avg_silo": 0.467,
+    "top_hobbies": [
+      "Cooking",
+      "Hiking",
+      "Music"
+    ]
+  },
+  "1": {
+    "name": "Cricket & Music",
+    "n": 19,
+    "avg_silo": 0.336,
+    "top_hobbies": [
+      "Cricket",
+      "Music",
+      "Cooking"
+    ]
+  },
+  "2": {
+    "name": "Football & Music",
+    "n": 27,
+    "avg_silo": 0.338,
+    "top_hobbies": [
+      "Football",
+      "Music",
+      "Fitness"
+    ]
+  },
+  "3": {
+    "name": "Art & Coding  Programming",
+    "n": 56,
+    "avg_silo": 0.306,
+    "top_hobbies": [
+      "Art",
+      "Coding  Programming",
+      "Travelling"
+    ]
+  }
+}
